@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610063303 source:c:\codeblocks\h. good subsequence\main.cpp
+	<iostream>
+	<cstring>
+

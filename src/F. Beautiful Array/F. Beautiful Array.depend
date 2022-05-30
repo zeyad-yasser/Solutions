@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610031454 source:c:\codeblocks\f. beautiful array\main.cpp
+	<iostream>
+	<algorithm>
+

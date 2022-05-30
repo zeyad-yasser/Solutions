@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610973686 source:c:\codeblocks\e. quinary\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+

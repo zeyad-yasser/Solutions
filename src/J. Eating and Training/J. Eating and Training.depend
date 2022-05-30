@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610616451 source:c:\codeblocks\j. eating and training\main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610394285 source:c:\codeblocks\a. magnets\main.cpp
+	<iostream>
+	<windows.h>
+	<algorithm>
+	<string>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611689831 source:c:\codeblocks\b. plan 2 practice sheet\main.cpp
+	<iostream>
+	<algorithm>
+	<utility>
+	<vector>
+

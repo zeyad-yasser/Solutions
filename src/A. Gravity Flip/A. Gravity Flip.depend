@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610276242 source:c:\codeblocks\a. gravity flip\main.cpp
+	<iostream>
+	<algorithm>
+

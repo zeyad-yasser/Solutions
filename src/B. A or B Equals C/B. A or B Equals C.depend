@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610747882 source:c:\codeblocks\b. a or b equals c\main.cpp
+	<iostream>
+	<cmath>
+

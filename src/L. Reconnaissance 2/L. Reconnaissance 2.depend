@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610627997 source:c:\codeblocks\l. reconnaissance 2\main.cpp
+	<iostream>
+	<algorithm>
+	<Windows.h>
+	<cmath>
+	<string>
+

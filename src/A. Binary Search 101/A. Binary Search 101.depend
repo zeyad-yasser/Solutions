@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611674683 source:c:\codeblocks\a. binary search 101\main.cpp
+	<iostream>
+	<algorithm>
+

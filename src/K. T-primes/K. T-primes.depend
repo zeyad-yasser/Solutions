@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610514060 source:c:\codeblocks\k. t-primes\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cmath>
+

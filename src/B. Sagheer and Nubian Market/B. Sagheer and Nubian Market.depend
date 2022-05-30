@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612196464 source:c:\codeblocks\b. sagheer and nubian market\main.cpp
+	<bits/stdc++.h>
+	<array>
+	<iterator>
+	<algorithm>
+

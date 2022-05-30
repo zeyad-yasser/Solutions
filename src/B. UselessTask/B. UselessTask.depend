@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611069570 source:c:\codeblocks\b. uselesstask\main.cpp
+	<iostream>
+	<cmath>
+

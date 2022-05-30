@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611791771 source:c:\codeblocks\l. vanya and lanterns\main.cpp
+	<bits/stdc++.h>
+	<iomanip>
+	<cstdlib>
+

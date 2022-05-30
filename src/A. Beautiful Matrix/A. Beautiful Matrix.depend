@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610228788 source:c:\codeblocks\a. beautiful matrix\main.cpp
+	<iostream>
+	<cmath>
+
